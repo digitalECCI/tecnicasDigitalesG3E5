@@ -37,15 +37,15 @@ XOR: La salida es 1 cuando A y B son diferentes.
 
 #### 1.2 Diagramas
 
-![](image.png)
+![Diagrama 1](img/image.png)
 
-![alt text](image-1.png)
+![Diagrama 2](img/image-6.png)
 
-![alt text](image-2.png)
+![Diagrama 3](img/image-5.png)
 
-![alt text](image-3.png)
+![Diagrama 4](img/image-4.png)
 
-![alt text](image-4.png)
+![Diagrama 5](img/image-3.png)
 
 
 ## 2. Verificador de Numeros Primos
@@ -59,7 +59,7 @@ Ejemplo: si A=1, B=0, C=1 → 1·4 + 0·2 + 1·1 = 5, y como 5 es primo, entonce
 
 #### 2.2 Diagramas
 
-![alt text](image-5.png)
+![Diagrama 5](img/image-2.png)
 
 ## 3. Sumador de 1 bit
 
@@ -69,21 +69,21 @@ Sumador de 1 bit: Circuito lógico combinacional que suma dos bits de entrada (A
 
 #### 3.2 Diagramas
 
-![alt text](image-6.png)
+![Diagrama 6](img/image-1.png)
 
 ## Simulaciones
 
 ### 1. Simulacion de compuertas
 
-![alt text](image-7.png)
+![Diagrama 7](img/image-7.png)
 
 ### 2. Simuacion de verificador de Numeros Primos
 
-![alt text](image-8.png)
+![Diagrama 8](img/image-8.png)
 
 ### 3. Simulacion de Sumador de 1 bit
 
-![alt text](image-9.png)
+![Diagrama 9](img/image-9.png)
 
 ## Evidencias de implementación
 
