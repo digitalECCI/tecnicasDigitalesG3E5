@@ -41,7 +41,7 @@ El código de prueba (sum4b_TB) utiliza dos ciclos for para recorrer automática
 
 #### 1.2 Diagramas
 
-![Diagrama 6](img/image-1.png)
+![Diagrama 1](img/imagen1.jpg)
 
 ## Simulaciones
 
