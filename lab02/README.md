@@ -47,7 +47,7 @@ El código de prueba (sum4b_TB) utiliza dos ciclos for para recorrer automática
 
 ### 1. Simulacion de Sumador de 4 bit
 
-![Diagrama 9](img/image-9.png)
+![Diagrama 2](img/imagen2.png)
 
 ## Evidencias de implementación
 
