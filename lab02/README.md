@@ -7,6 +7,7 @@
 # Integrantes
 * [Gianfranco Lopez Seguin](https://github.com/PeruLover123)
 * [Jesus David Leyton Ramirez](https://github.com/RagSource)
+* [Heidy Carolina Calderon Romero](https://github.com/)
   
 # Informe
 
