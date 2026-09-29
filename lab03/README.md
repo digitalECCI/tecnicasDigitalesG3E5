@@ -14,7 +14,7 @@
 Indice:
 
 1. [Decodificador de 4 bit](#decodificador-de-4-bit)
-2. [7 segmentos](#7-segmentos)
+2. [7 Segmentos](#7-Segmentos)
 3. [Simulaciones](#simulaciones)
 4. [Evidencias de implementación](#evidencias-de-implementación)
 5. [Conclusiones](#conclusiones)
@@ -31,11 +31,17 @@ Indice:
 
 ![Diagrama 1](img/imagen1.jpg)
 
-## 1. Decodificador de 4 bit
+## 2. 7 Segmentos
+
+#### 1.1 Descripción
+
+
+
+#### 1.2 Diagramas
 
 ## Simulaciones
 
-### 1. Simulacion de Sumador de 4 bit
+### 1. Simulacion de Decodificador de 4 bit
 
 ![Diagrama 2](img/imagen2.png)
 
