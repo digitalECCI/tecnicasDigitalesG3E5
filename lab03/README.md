@@ -25,7 +25,7 @@ Indice:
 
 #### 1.1 Descripción
 
-
+El decodificador de 4 bits es un circuito que recibe una entrada de cuatro bits y la convierte en una salida que permite representar diferentes valores numéricos. En la FPGA, este decodificador puede utilizarse para determinar qué número debe mostrarse en el display de 7 segmentos. Dependiendo de la combinación de los cuatro bits de entrada, el sistema identifica el valor correspondiente y activa los segmentos necesarios para mostrarlo. De esta manera, se puede controlar el display de forma sencilla mediante la programación de la FPGA.
 
 #### 1.2 Diagramas
 
@@ -35,7 +35,7 @@ Indice:
 
 #### 1.1 Descripción
 
-
+El display de 7 segmentos integrado en la tarjeta FPGA permite mostrar diferentes números utilizando siete segmentos LED, identificados como a, b, c, d, e, f y g. En este caso, no es necesario conectar un display externo, ya que la propia tarjeta FPGA cuenta con uno y sus segmentos están conectados directamente a pines de la FPGA. Mediante el código HDL, se controla el estado de cada segmento para formar los números del 0 al 9. Al tratarse de un display de ánodo común, los segmentos se activan mediante un nivel lógico bajo (0) y se desactivan con un nivel lógico alto (1).
 
 #### 1.2 Diagramas
 
