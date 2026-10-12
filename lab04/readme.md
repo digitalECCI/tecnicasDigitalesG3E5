@@ -125,13 +125,13 @@ en_dec: Se activa solo si en es activo Y mil == 9 Y cen == 9.
 
 en_seg: Se activa solo si en es activo Y mil == 9 Y cen == 9 Y dec == 9.   
 
-#### 4.2 Diagramas
+#### 5.2 Diagramas
 
 ![Diagrama 1](img/cronometro.jpeg)
 
 ## Simulaciones
 
-![Diagrama 2](img/diagramasel.jpeg)
+![Diagrama 2](img/diagramacron.jpeg)
 
 ## Evidencias de implementación
 
