@@ -49,12 +49,12 @@ El display de 7 segmentos integrado en la tarjeta FPGA permite mostrar diferente
 
 ### 1. Simulacion de Decodificador de 4 bit
 
-![Diagrama 2](img/imagen2.jpeg)
+![Diagrama 2](img/diagramasel.jpeg)
 
 ## Evidencias de implementación
 
-
+https://youtube.com/shorts/kCpCZXlP9Lc?feature=share 
 
 ## Conclusiones
 
-
+En conclusión, el desarrollo del proyecto nos permitió comprobar lo práctico que es integrar decodificadores e interfaces de visualización dentro de una FPGA. La implementación del decodificador de 4 bits facilitó el control directo del display de 7 segmentos, optimizando el uso de recursos y reduciendo la necesidad de componentes externos. Además, al trabajar con una configuración de ánodo común, reafirmamos la importancia de gestionar correctamente la lógica inversa (ceros para encender) dentro de la descripción en HDL para lograr una interpretación clara de los datos numéricos.
