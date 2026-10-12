@@ -37,7 +37,7 @@ Cuando count alcanza el valor 49999 (50,000 ciclos en total), reinicia el contad
 
 #### 1.2 Diagramas
 
-![Diagrama 1](img/sumador.jpeg)
+![Diagrama 1](img/divisor.jpeg)
 
 ## 2. Selector
 
@@ -65,7 +65,7 @@ Lógica secuencial (always @(posedge clk)): Cada vez que llega un tick provenien
 
 #### 2.2 Diagramas
 
-![Diagrama 1](img/7seg.jpeg)
+![Diagrama 1](img/sell.jpeg)
 
 ## 3. Contador
 
@@ -87,7 +87,7 @@ Si en es 0, el contador conserva su valor actual.
 
 #### 3.2 Diagramas
 
-![Diagrama 1](img/7seg.jpeg)
+![Diagrama 1](img/contador.jpeg)
 
 ## 4. Decodificador
 
@@ -103,7 +103,7 @@ Mediante un bloque case (A), mapea los dígitos decimales del 0 al 9 (y caracter
 
 #### 4.2 Diagramas
 
-![Diagrama 1](img/7seg.jpeg)
+![Diagrama 1](img/7segg.jpeg)
 
 ## 5. Cronómetro
 
@@ -127,7 +127,7 @@ en_seg: Se activa solo si en es activo Y mil == 9 Y cen == 9 Y dec == 9.
 
 #### 4.2 Diagramas
 
-![Diagrama 1](img/7seg.jpeg)
+![Diagrama 1](img/cronometro.jpeg)
 
 ## Simulaciones
 
