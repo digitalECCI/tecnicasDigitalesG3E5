@@ -29,7 +29,9 @@ El decodificador de 4 bits es un circuito que recibe una entrada de cuatro bits 
 
 #### 1.2 Diagramas
 
-![Diagrama 1](img/imagen1.jpg)
+![Diagrama 1](img/sumador.jpeg)
+
+![Diagrama 1](img/sumadorthree.jpeg)
 
 ## 2. 7 Segmentos
 
@@ -39,11 +41,15 @@ El display de 7 segmentos integrado en la tarjeta FPGA permite mostrar diferente
 
 #### 2.2 Diagramas
 
+![Diagrama 1](img/7seg.jpeg)
+
+![Diagrama 3](img/sel.jpeg)
+
 ## Simulaciones
 
 ### 1. Simulacion de Decodificador de 4 bit
 
-![Diagrama 2](img/imagen2.png)
+![Diagrama 2](img/imagen2.jpeg)
 
 ## Evidencias de implementación
 
