@@ -35,10 +35,6 @@ El sistema muestrea la entrada `button` en dos registros consecutivos (`sync_0`,
 
 Si la señal se mantiene estable (igual a `button_stable`) durante un tiempo determinado (`MAX_COUNT`), se considera válida. Solo cuando se detecta un flanco de bajada confirmado (transición de estable a inestable tras contar), se genera un pulso único `pulse = 1'b1` que dura exactamente un ciclo de reloj, actuando como el "Enter" limpio para la FSM.
 
-#### 1.2 Diagramas
-
-![Diagrama 1](img/sevenseg.jpeg)
-
 ## 2. Selector de Estados (FSM)
 
 #### 2.1 Descripción
@@ -120,6 +116,9 @@ Lógica de Interacción:
 `hex_out`: Vector de 6 displays que muestra el estado actual del sistema al usuario.
 
 Seguridad: La comparación de la clave se realiza exclusivamente en el estado S_VERIF, evitando revelar información parcial sobre qué dígito falló.
+
+#### 5.2 Diagramas
+![Diagrama 1](img/sevenseg.jpeg)
 
 ## Conclusiones
 
