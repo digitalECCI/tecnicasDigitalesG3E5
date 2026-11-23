@@ -37,7 +37,7 @@ Si la señal se mantiene estable (igual a `button_stable`) durante un tiempo det
 
 #### 1.2 Diagramas
 
-![Diagrama 1](img/divisor.jpeg)
+![Diagrama 1](img/sevenseg.jpeg)
 
 ## 2. Selector de Estados (FSM)
 
@@ -57,7 +57,7 @@ Lógica secuencial (`always @(posedge clk)`): Gestiona el registro de estado (`s
 
 #### 2.2 Diagramas
 
-![Diagrama 1](img/sell.jpeg)
+![Diagrama 1](img/safe.jpeg)
 
 ## 3. Contador de Intentos y Dígitos
 
@@ -79,7 +79,7 @@ En S_BLOQUEO, el contador se congela y solo se reinicia mediante KEY1 (Master Re
 
 #### 3.2 Diagramas
 
-![Diagrama 1](img/contador.jpeg)
+![Diagrama 1](img/bounce.jpeg)
 
 ## 4. Decodificador de Display y Servo
 
@@ -101,7 +101,7 @@ La salida `pwm` es alta mientras `count < ancho`, definiendo la posición del ce
 
 #### 4.2 Diagramas
 
-![Diagrama 1](img/7segg.jpeg)
+![Diagrama 1](img/servo.jpeg)
 
 ## 5. Caja Fuerte Digital
 
@@ -120,18 +120,6 @@ Lógica de Interacción:
 `hex_out`: Vector de 6 displays que muestra el estado actual del sistema al usuario.
 
 Seguridad: La comparación de la clave se realiza exclusivamente en el estado S_VERIF, evitando revelar información parcial sobre qué dígito falló.
-
-#### 5.2 Diagramas
-
-![Diagrama 1](img/cronometro.jpeg)
-
-## Simulaciones
-
-![Diagrama 2](img/diagramacron.jpeg)
-
-## Evidencias de implementación
-
-[https://youtube.com/shorts/kCpCZXlP9Lc?feature=share](https://youtube.com/shorts/ld9kmHTvEUM?feature=share) 
 
 ## Conclusiones
 
