@@ -1,4 +1,3 @@
-
 # Tecnicas Digitales D3E5
 
 # Descripción
@@ -16,10 +15,8 @@ Indice:
 1. [Divisor de frecuencia](#Divisor-de-frecuencia)
 2. [Selector de Estados (FSM)](#Selector-de-Estados-FSM)
 3. [Contador Unificado](#Contador-Unificado)
-4. [Decodificador de Salidas](#Decodificador-de-Salidas)
-5. [Semáforo Inteligente](#Semáforo-Inteligente)
-6. [Evidencias de implementación](#evidencias-de-implementación)
-7. [Conclusiones](#conclusiones)
+4. [Semáforo Inteligente](#Semáforo-Inteligente)
+5. [Conclusiones](#conclusiones)
 
 ## 1. Divisor de frecuencia
 
