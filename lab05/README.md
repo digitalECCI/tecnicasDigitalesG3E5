@@ -33,7 +33,7 @@ Cuando count alcanza el valor exacto **49999999**, reinicia el contador a 0 y ge
 
 #### 1.2 Diagramas 
 
-![Diagrama 1]([img/Div.jpeg](https://github.com/digitalECCI/tecnicasDigitalesG3E5/blob/0e748d29e995430794323759dca4b3bab0c51e19/lab05/Img/All.jpeg))
+![Diagrama 1](img/Div.jpeg)
 
 ## 2. Selector de Estados (FSM)
 
