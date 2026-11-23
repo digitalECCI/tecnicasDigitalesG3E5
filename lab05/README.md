@@ -33,7 +33,7 @@ Cuando count alcanza el valor exacto **49999999**, reinicia el contador a 0 y ge
 
 #### 1.2 Diagramas 
 
-![Diagrama 1](img/Div.jpeg)
+![Diagrama 1](Lab05/Img/Div.jpeg)
 
 ## 2. Selector de Estados (FSM)
 
@@ -51,7 +51,7 @@ Lógica secuencial (`always @(posedge clk)`): Evalúa el estado actual (`state`)
 
   #### 2.2 Diagramas
 
-![Diagrama 1](img/Traffic.png)
+![Diagrama 2](Lab05/Img/Traffic.jpeg)
 
 ## 3. Contador Unificado
 
@@ -88,7 +88,7 @@ Cascada de Control (Top-Level Logic):
 `state`: Evoluciona cíclicamente (Verde -> Amarillo -> Rojo -> Amarillo -> Verde) basado en el contador unificado.
 
 #### 4.2 Diagramas
-![Diagrama 1](img/All.png)
+![Diagrama 3](Lab05/Img/All.jpeg)
 
 ## Conclusiones
 
