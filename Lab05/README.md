@@ -89,7 +89,7 @@ Cascada de Control (Top-Level Logic):
 `state`: Evoluciona cíclicamente (Verde -> Amarillo -> Rojo -> Amarillo -> Verde) basado en el contador unificado.
 
 #### 4.2 Diagramas
-![Diagrama 1](img/All.png)
+![Diagrama 1]([img/All.png](https://github.com/digitalECCI/tecnicasDigitalesG3E5/blob/b7457c2afd3b7a30862d23b91ac15fa89a8a4515/Lab05/All.png))
 
 ## Conclusiones
 
