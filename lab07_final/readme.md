@@ -36,7 +36,7 @@ El contador cuenta hasta **5207** (5208 ciclos totales), momento en el cual rein
 
 #### 1.2 Diagramas
 
-![Diagrama 1](img/divisor.jpeg)
+![Diagrama 1](img/TX.jpeg)
 
 ## 2. Transmisor UART (TX)
 
@@ -56,7 +56,7 @@ Al recibir la señal de disparo (`send_cmd`), la máquina transita por los sigui
 
 #### 2.2 Diagramas
 
-![Diagrama 1](img/sell.jpeg)
+![Diagrama 1](img/uart_tx.jpeg)
 
 ## 3. Receptor UART (RX)
 
@@ -72,7 +72,7 @@ Reconstruye el byte recibiendo LSB primero. Al finalizar los 8 bits, verifica el
 
 #### 3.2 Diagramas
 
-![Diagrama 1](img/contador.jpeg)
+![Diagrama 1](img/uart_rx.jpeg)
 
 ## 4. Conversores Binario-Decimal
 
@@ -90,8 +90,8 @@ Acumula los caracteres ASCII recibidos usando la lógica posicional: `valor_acum
 El proceso termina al recibir el carácter de salto de línea (Enter, 0x0A), momento en el cual el valor binario resultante se transfiere a los LEDs.
 
 #### 4.2 Diagramas
-
-![Diagrama 1](img/7segg.jpeg)
+![Diagrama 1](img/bin2dec.jpeg)
+![Diagrama 2](img/dec2bin.jpeg)
 
 ## 5. Sistema de Comunicación Bidireccional
 
@@ -110,11 +110,7 @@ Lógica de Control:
 
 #### 5.2 Diagramas
 
-![Diagrama 1](img/cronometro.jpeg)
-
-## Simulaciones
-
-![Diagrama 2](img/diagramacron.jpeg)
+![Diagrama 1](img/proyecto_uart.jpeg)
 
 ## Evidencias de implementación
 
